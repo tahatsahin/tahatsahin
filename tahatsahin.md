@@ -7,7 +7,7 @@
 
 <center> 
 
-*  I’m currently working as an **R&D Electronics Engineer
+* 💻 I’m currently working as an **R&D Electronics Engineer
 	
 * 💻 I’m interested in Computer Science and Web Development
 	
