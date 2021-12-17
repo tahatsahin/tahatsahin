@@ -1,13 +1,13 @@
 <h1 align="center"> Hi there, I'm Taha 👋 </h1>
 
-<h2 align="center"> Electrical and Electronics Engineer - Trying to develop some **CS** stuff here. :smile:</h2> 
+<h2 align="center"> Electrical and Electronics Engineer - Trying to learn and develop some *CS* stuff here. :smile:</h2> 
 
 
 <br />
 
 <center> 
 
-* ⚡ I’m currently working as an **R&D Electronics Engineer
+* ⚡ I’m currently working as an R&D Electronics Engineer
 	
 * 💻 I’m interested in Computer Science and Web Development
 	
