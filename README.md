@@ -7,12 +7,14 @@
 
 <center> 
 
-* 💻 I’m currently working as an **R&D Electronics Engineer
+* ⚡ I’m currently working as an **R&D Electronics Engineer
 	
 * 💻 I’m interested in Computer Science and Web Development
 	
-* 💬 Ask me about anything!
+* 📙 Currently studiying Python/Django/Flask
 	
+* 💬 Ask me about anything!
+
 * 📧 Contact me at [tahatsahin@gmail.com](mailto:tahatsahin@gmail.com)
 	
 </center> 
