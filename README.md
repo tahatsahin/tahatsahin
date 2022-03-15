@@ -7,11 +7,11 @@
 
 <center> 
 
-* ⚡ I’m currently working as an R&D Electronics Engineer
+* ⚡ I’m currently working as a Developer at DefineX
 	
 * 💻 I’m interested in Computer Science and Web Development
 	
-* 📙 Currently studiying Python/Django/Flask
+* 📙 Currently studiying Python/Django/Flask, trying to improve my knowledge about Golang
 	
 * 💬 Ask me about anything!
 
