@@ -25,9 +25,9 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/taha-turgut-sahin
-" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="tahatsahin" width="35px" /></a>
-<a href="https://twitter.com/Taha_Turgut" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Taha_Turgut" width="35px" /></a>
-<a href="https://instagram.com/tahatsahin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="tahatsahin" width="35px" /></a>
+" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="tahatsahin" width="35px" /></a>
+<a href="https://twitter.com/Taha_Turgut" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Taha_Turgut" width="35px" /></a>
+<a href="https://instagram.com/tahatsahin" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="tahatsahin" width="35px" /></a>
 </p>
 
 <br />
