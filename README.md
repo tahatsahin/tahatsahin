@@ -9,9 +9,9 @@
 
 * ⚡ I’m currently working as a Developer at DefineX
 	
-* 💻 I’m interested in Computer Science and Web Development
+* 💻 I’m interested in Web Development
 	
-* 📙 Currently studiying Python/Django/Flask, trying to improve my knowledge about Golang
+* 📙 Currently studiying ElasticSearch/Jenkins/Kafka, additionally trying to improve my experience about Golang
 	
 * 💬 Ask me about anything!
 
