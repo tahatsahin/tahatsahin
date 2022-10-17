@@ -11,7 +11,7 @@
 	
 * 💻 I’m interested in Web Development
 	
-* 📙 Currently studiying ElasticSearch/Jenkins/Kafka, additionally trying to improve my experience about Golang
+* 📙 Currently studiying ElasticSearch/Jenkins/Kafka, additionally trying to improve my knowledge in Javascript and Node.js
 	
 * 💬 Ask me about anything!
 
