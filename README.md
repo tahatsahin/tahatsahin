@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there, I'm Taha 👋 </h1>
 
-<h2 align="center"> Electrical and Electronics Engineer - Trying to learn and develop some *CS* stuff here. :smile:</h2> 
+<h2 align="center"> Electrical and Electronics Engineer - Trying to learn and improve myself here. :smile:</h2> 
 
 
 <br />
