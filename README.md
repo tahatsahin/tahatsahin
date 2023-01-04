@@ -1,8 +1,5 @@
 <h1 align="center"> Hi there, I'm Taha 👋 </h1>
 
-<h2 align="center"> Electrical and Electronics Engineer - Trying to learn and improve myself here. :smile:</h2> 
-
-
 <br />
 
 <center> 
@@ -11,7 +8,7 @@
 	
 * 💻 I’m interested in Web Development
 	
-* 📙 Currently studiying ElasticSearch/Jenkins/Kafka, additionally trying to improve my knowledge in Javascript and Node.js
+* 📙 Currently studiying OpenShift, ElasticSearch, K8s, additionally trying to improve my knowledge in Javascript and Node.js
 	
 * 💬 Ask me about anything!
 
