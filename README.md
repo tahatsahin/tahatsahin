@@ -8,7 +8,7 @@
 	
 * 💻 I’m interested in Web Development
 	
-* 📙 Currently studiying OpenShift, ElasticSearch, K8s, additionally trying to improve my knowledge in Golang!
+* 📙 Currently studiying Kafka, ElasticSearch, K8s, additionally trying to improve my knowledge in Golang!
 	
 * 💬 Ask me about anything!
 
