@@ -16,6 +16,13 @@
 	
 </center> 
 
+<center>
+
+* In my daily job, I am developing Middleware REST/SOAP APIs, with using Oracle Fusion Middleware, OSB, SOA, IBM DataPower, Graylog.
+* Currently improving myself in RedHat OpenShift, IBM API Connect and WSO2. 
+ 
+</center>
+
 <br />
 
 <p align="center"> Social media here: </p>
