@@ -18,6 +18,7 @@
 <a href="https://www.linkedin.com/in/taha-turgut-sahin
 " target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="tahatsahin" width="35px" /></a>
 <a href="https://twitter.com/Taha_Turgut" target="_tab"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Taha_Turgut" width="35px" /></a>
+<a href="https://tahatsahin.com"/></a>
 </p>
 
 <br />
